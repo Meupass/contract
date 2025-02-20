@@ -1,7 +1,8 @@
 # Meupass
-<img src="https://github.com/user-attachments/assets/01d0960a-ea4b-4207-b601-5da8092e66f4" width="256" height="256" alt="meupass">
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01d0960a-ea4b-4207-b601-5da8092e66f4" width="256" height="256" alt="Meupass">
+</p>
 
 Meupass is an innovative app focused on the gastronomy and events market. With Meupass, you can participate in the distribution of 10% of the monthly profits, paid in USDC, and benefit from the potential appreciation of a groundbreaking project that integrates all the solutions for a seamless in-person experience.
 
